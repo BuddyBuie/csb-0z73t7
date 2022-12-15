@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "https://buddybuie.github.io/csb-0z73t7/static/js/main.c4685a88.chunk.js",
+    "main.js.map": "https://buddybuie.github.io/csb-0z73t7/static/js/main.c4685a88.chunk.js.map",
+    "runtime-main.js": "https://buddybuie.github.io/csb-0z73t7/static/js/runtime-main.389c0554.js",
+    "runtime-main.js.map": "https://buddybuie.github.io/csb-0z73t7/static/js/runtime-main.389c0554.js.map",
+    "static/css/2.68e31a66.chunk.css": "https://buddybuie.github.io/csb-0z73t7/static/css/2.68e31a66.chunk.css",
+    "static/js/2.474efb3d.chunk.js": "https://buddybuie.github.io/csb-0z73t7/static/js/2.474efb3d.chunk.js",
+    "static/js/2.474efb3d.chunk.js.map": "https://buddybuie.github.io/csb-0z73t7/static/js/2.474efb3d.chunk.js.map",
+    "index.html": "https://buddybuie.github.io/csb-0z73t7/index.html",
+    "static/css/2.68e31a66.chunk.css.map": "https://buddybuie.github.io/csb-0z73t7/static/css/2.68e31a66.chunk.css.map",
+    "static/js/2.474efb3d.chunk.js.LICENSE.txt": "https://buddybuie.github.io/csb-0z73t7/static/js/2.474efb3d.chunk.js.LICENSE.txt",
+    "static/media/siri.58cfa1c1.png": "https://buddybuie.github.io/csb-0z73t7/static/media/siri.58cfa1c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.389c0554.js",
+    "static/css/2.68e31a66.chunk.css",
+    "static/js/2.474efb3d.chunk.js",
+    "static/js/main.c4685a88.chunk.js"
+  ]
+}
